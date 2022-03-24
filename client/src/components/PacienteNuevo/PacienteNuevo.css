@@ -1,0 +1,22 @@
+.titulo-form {
+    text-align: center;
+}
+
+.form-alta {
+    display: flex;
+    justify-content: center;
+}
+.form-alta p {
+    text-align: center;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    text-decoration: underline;
+}
+.form-button {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.form-button button {
+    border-radius: 15px;
+}
